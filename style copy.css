@@ -36,15 +36,11 @@ body{
 
 /* geef standaard waarde aan afbeeldingen mee */
 img{
-	/*margin-left: auto ;
-	margin-right: auto ;*/
 	margin-top:20px;
 	margin-bottom:10px;
 	
 	height:auto; 
 	width:600px;
-	max-height:600px;
-	/*max-width: 100%;*/
 
 	overflow:hidden;
 	
@@ -84,7 +80,7 @@ img:hover{
 	color:rgba(41,224,162,0.95);
 	
 	min-width:25px;
-	margin-top:20px;
+/*	margin-top:20px;*/
 	margin-left:10px;
 }
 .chapter{
